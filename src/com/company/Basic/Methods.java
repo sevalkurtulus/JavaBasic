@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Basic;
 
 public class Methods {
     public static void main(String[] args) {
