@@ -1,10 +1,11 @@
 package com.company.AbstractClass;
 
-public class AbstractSınıf {
+public class  AbstractSınıf {
     public static void main(String[] args) {
         GeometrikSekil kare = new Kare(12);
         kare.cevreHesapla();
         kare.alanHesapla();
+        //typecasting
         ((Kare)kare).adiniSoyle();
 
 
